@@ -6,10 +6,6 @@ This manual documents the technical experiments carried out from 1 to 7 October 
 
 The camera works with its existing person-detection model. The custom model detects pigeons in validation images in Google Colab, but has not yet been installed on the camera. Detection on my own balcony and the connection to notifications have not yet been tested.
 
-Steps 1–14 cover the initial experiments. From step 15 onwards, the manual describes the follow-up experiments carried out on 7 October.
-
-**Translation disclosure:** AI was used to translate the Dutch process notes into English and format them as Markdown. The experiments and results described below come from the recorded tests.
-
 ## Required hardware and software
 
 **Hardware:** Arduino Uno, Grove Base Shield, Grove Vision AI Module V1, Grove cable, USB cable for the Uno, USB-C cable for the camera, and a laptop.
@@ -23,7 +19,7 @@ The NodeMCU ESP8266 and Telegram were used in an earlier, separate experiment. T
 - **Steps 1–5:** connecting the hardware and testing the camera.
 - **Steps 6–14:** initial model training, errors, and solutions.
 - **Steps 15–23:** recovering files, retraining, and comparing results.
-- **Steps 24–25:** reviewing the final status and documenting remaining work.
+- **Steps 24–25:** reviewing the final status.
 
 ## 1 Connecting and selecting the Arduino Uno
 
