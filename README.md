@@ -344,5 +344,4 @@ My technical next step would be to check the model's hardware compatibility. I c
 - [Seeed YOLOv5 code and starting model](https://github.com/Seeed-Studio/yolov5-swift)
 - [Roboflow Pigeon dataset version 3](https://universe.roboflow.com/pigeonpurger/pigeon-dievd/dataset/3) — dataset licence: CC BY 4.0.
 - [PyTorch documentation related to the loading error](https://pytorch.org/docs/stable/generated/torch.load.html)
-- **My notebook:** Balkonboeman_duiven_training.ipynb. Evidence of the code, saved output, and repairs; saving the notebook does not automatically save the model files.
-- **My results in Google Drive:** Balkonboeman/training/duiven_test and Balkonboeman/training/duiven_384_test. Prediction images: Balkonboeman/voorspellingen/controle and controle_384.
+
